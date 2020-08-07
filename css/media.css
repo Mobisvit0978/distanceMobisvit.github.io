@@ -1,0 +1,8 @@
+@media ( max-width: 1199px) {
+    .container {
+        justify-content: flex-start;
+    }
+    .right-sidebar{
+        display: none;
+    }
+}
